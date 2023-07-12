@@ -1,3 +1,3 @@
 # Algorithm_Code
 
-Applying variety fo Algorithm code into practice. 
+Applying variety of Algorithm code into practice. 
